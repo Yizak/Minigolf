@@ -1,0 +1,1 @@
+OpenGL rendering, as well as exception handling and physics engine classes (excluding MyScene content and golf club input functionality) implemented by the module coordinator for Physics Simulation at the University of Lincoln, Oliver Szymanezyk.
